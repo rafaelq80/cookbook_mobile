@@ -470,7 +470,7 @@ heroku config:add TZ="America/Sao_Paulo" --app nomedoprojeto
 
 <div align="center"><img src="https://i.imgur.com/ast14mj.png" title="source: imgur.com" /></div>
 
-7. Abra a requisição **Cadastrar Usuário** na pasta **Blog Pessoal - Heroku**.
+7. Abra a Requisição **Cadastrar Usuário** na pasta **Blog Pessoal - Heroku**.
 
 8. Altere o caminho atual: **http://localhost:8080/usuarios/cadastrar** 
 
@@ -499,9 +499,9 @@ heroku config:add TZ="America/Sao_Paulo" --app nomedoprojeto
 
 1. Volte para o **Insomnia** 
 
-2. Atualize o endereço de todas requisições da pasta **Blog Pessoal - Heroku**, assim como foi feito na requisição **Cadastrar Usuário**
+2. Atualize o endereço de todas requisições da pasta **Blog Pessoal - Heroku**, assim como foi feito na Requisição **Cadastrar Usuário**
 
-3. Execute a requisição **Login** para acessar a API
+3. Execute a Requisição **Login** para acessar a API
 
 4. Teste todas requisições seguindo as orientações do **Checklist do Projeto Blog Pessoal**.
 
