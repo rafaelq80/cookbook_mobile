@@ -13,7 +13,7 @@
 6. <a href="05.md" >Projeto Todo-List - Módulo Tarefa - Classe Entidade Tarefa (Model)</a>
 7. <a href="07.md" >Projeto Todo-List - Módulo Tarefa Controller e Service - Método Listar tudo</a>
 8. <a href="08.md" >Projeto Todo-List - Módulo Tarefa Controller e Service - Método Buscar por id</a>
-9. <a href="09.md" >Projeto Todo-List - Módulo Tarefa Controller e Service - Método Buscar por título</a>
+9. <a href="09.md" >Projeto Todo-List - Módulo Tarefa Controller e Service - Método Buscar por nome</a>
 10. <a href="10.md" >Projeto Todo-List - Módulo Tarefa Controller e Service - Métodos Cadastrar e Atualizar</a>
 11. <a href="11.md" >Projeto Todo-List - Módulo Tarefa Controller e Service - Método Apagar</a>
 12. <a href="12.md" >Projeto Todo-List - Relacionamento entre Módulos - Módulo Categoria - Parte 01</a>
