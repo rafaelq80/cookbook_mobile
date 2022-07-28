@@ -24,11 +24,6 @@
 22. <a href="22.md" >Projeto Todo-List - Documentação com Swagger</a>
 23. <a href="23.md" >Projeto Todo-List - Deploy no Heroku via Github</a>
 
-<h2><img src="https://i.imgur.com/O6PILGE.png" title="source: imgur.com" width="35px"/>Anexos</h2>
-
-1. <a href="config_vscode_nest.md" >Configurações Recomendadas - VSCode</a>
-2. <a href="deploy_client.md" >Projeto Todo-List - Deploy no Heroku via Heroku Client</a>
-
 <br /><br />
 	
 
