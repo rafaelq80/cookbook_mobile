@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://i.imgur.com/icgjsRQ.png" title="source: imgur.com" width="50%"/>
 </div>
-<h1><img src="https://i.imgur.com/r9lrbPG.png" title="source: imgur.com" width="40px"/>Bootcamp - JavaScript Full Stack </h1>
+<h1><img src="https://i.imgur.com/4NKcSiD.png" title="source: imgur.com" width="40px"/>Bootcamp - Mobile Full Stack </h1>
 
 <h2><img src="https://i.imgur.com/Mh2KzWe.png" title="source: imgur.com" width="35px"/>Banco de Dados - MySQL</h2>
 
