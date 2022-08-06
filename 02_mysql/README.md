@@ -8,7 +8,6 @@
 1. <a href="01.md" >Introdução a Banco de Dados com MySQL</a>
 2. <a href="02.md" >Banco de Dados com MySQL - parte 01</a>
 3. <a href="03.md" >Banco de Dados com MySQL - parte 02</a>
-4. <a href="04.md" >Diagrama Entidade Relacionamento (DER) no MySQL Workbench</a>
 
 <br /><br />
 	
