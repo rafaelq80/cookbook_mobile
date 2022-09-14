@@ -22,7 +22,7 @@
 19. <a href="19.md" >Projeto Todo-List - Teste de Software - Configurando o ambiente de testes</a>
 20. <a href="21.md" >Projeto Todo-List - Teste de Software - Módulo Tarefa</a>
 22. <a href="22.md" >Projeto Todo-List - Documentação com Swagger</a>
-23. <a href="23.md" >Projeto Todo-List - Deploy no Heroku via Github</a>
+23. <a href="24.md" >Projeto Todo-List - Deploy no Render via Github</a>
 
 <br /><br />
 	
